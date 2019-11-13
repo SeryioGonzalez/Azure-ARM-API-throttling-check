@@ -19,3 +19,13 @@ resourceGroup="testPrincipal"
 #Region
 location="westeurope"
 ```
+## Run the script:
+
+```
+$ ./monitor-throttling.sh
+17:29:38 READ: 11974
+17:29:39 READ: 11987
+17:29:40 READ: 11972
+17:29:40 READ: 11997
+
+```

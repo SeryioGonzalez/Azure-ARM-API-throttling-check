@@ -1,6 +1,7 @@
 ## You need to create a file named config.sh with the following sample content:
-
+```
 #PRINCIPAL DATA
+
 ##Name of the principal
 clientName="test-api-capacity"
 ##Secret of the principal
@@ -17,3 +18,4 @@ subscriptionId="1111111-d373-4afb-a5d6-7c44f098d16a"
 resourceGroup="testPrincipal"
 #Region
 location="westeurope"
+```

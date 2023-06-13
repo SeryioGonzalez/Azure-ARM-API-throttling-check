@@ -1,4 +1,6 @@
-## You need to create a file named config.sh with the following sample content:
+## Azure ARM API Throttling check
+
+You need to create a file named config.sh with the following sample content:
 ```
 #PRINCIPAL DATA
 

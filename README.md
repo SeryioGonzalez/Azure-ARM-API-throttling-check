@@ -1,5 +1,7 @@
 ## Azure ARM API Throttling check
 
+This tool allows you to check the number of API calls you can do before throttled
+
 You need to create a file named config.sh with the following sample content:
 ```
 #PRINCIPAL DATA
